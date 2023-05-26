@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="205mm"
+   height="66mm"
+   viewBox="0 0 205 66"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72515432"
+     inkscape:cx="320.62141"
+     inkscape:cy="436.45882"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs2"><rect
+       x="653.65399"
+       y="1002.5452"
+       width="401.29388"
+       height="307.52075"
+       id="rect2452" /><rect
+       x="273.04532"
+       y="826.03107"
+       width="466.10767"
+       height="195.82039"
+       id="rect2321" /></defs><g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"><g
+       id="g1064"
+       transform="matrix(0.1171875,0,0,0.11718956,2.896396,3.2625381)"
+       style="fill:#af2c00;fill-opacity:1">
+	<path
+   class="st0"
+   d="M 255.991,0.005 C 114.624,0.005 0,114.619 0,255.996 c 0,141.385 114.624,256 255.991,256 C 397.377,511.996 512,397.382 512,255.996 512,114.619 397.377,0.005 255.991,0.005 Z m 83.974,278.886 c -0.19,0 -0.37,-0.01 -0.572,-0.01 8.191,22.297 17.115,51.536 17.115,94.156 H 155.492 c 0,-42.62 8.924,-71.859 17.115,-94.156 -0.19,0 -0.381,0.01 -0.572,0.01 -30.925,0 -55.982,-25.058 -55.982,-55.983 0,-30.906 25.058,-55.964 55.982,-55.964 8.905,0 17.325,2.076 24.801,5.791 11.962,-20.22 33.973,-33.782 59.173,-33.782 25.183,0 47.192,13.562 59.155,33.782 7.476,-3.715 15.896,-5.791 24.8,-5.791 30.925,0 55.984,25.058 55.984,55.964 0,30.926 -25.058,55.983 -55.983,55.983 z"
+   id="path1062"
+   style="fill:#af2c00;fill-opacity:1" />
+</g><text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2319"
+       style="font-size:85.3333px;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script, Normal';white-space:pre;shape-inside:url(#rect2321);fill:none;fill-opacity:1;stroke:none" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.0149px;font-family:'Maiandra GD';-inkscape-font-specification:'Maiandra GD, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.292839;stroke-dasharray:none"
+       x="91.860443"
+       y="33.589008"
+       id="text2448"
+       transform="scale(0.72454239,1.3801815)"><tspan
+         sodipodi:role="line"
+         id="tspan2446"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.0149px;font-family:'Maiandra GD';-inkscape-font-specification:'Maiandra GD, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b0000;stroke-width:0.292839;stroke-dasharray:none"
+         x="91.860443"
+         y="33.589008">Cuisine Academy</tspan></text><text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2450"
+       style="font-size:85.3333px;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script, Normal';white-space:pre;shape-inside:url(#rect2452);fill:none;fill-opacity:1;stroke:none" /></g><style
+     type="text/css"
+     id="style1060">
+	.st0{fill:#000000;}
+</style></svg>
