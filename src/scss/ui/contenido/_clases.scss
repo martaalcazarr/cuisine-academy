@@ -26,6 +26,11 @@
     border: 1px solid darken($color: v.$gris, $amount: 10%);
     background-color: v.$blanco;
 
+    &__imagen{
+        width: 100%;
+        height: 24rem;
+        object-fit: cover;
+    }
     &__meta{
         background-color: v.$primario;
         display: flex;
@@ -53,6 +58,10 @@
 
     &__duracion{
         color: v.$primario;
+    }
+
+    &__texto{
+        min-height: 6rem; 
     }
 
     &__enlace{
