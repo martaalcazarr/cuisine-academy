@@ -1,0 +1,25 @@
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.escuela{
+    background-image: linear-gradient(to bottom, transparentize(v.$negro, 1%) 0%, transparentize(v.$negro, .3%) 100% ), url(../img/chef_bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    padding: 20rem 0;
+    text-align: center;
+    color: v.$blanco;
+
+    &__heading{
+        font-weight: 700;
+    }
+
+    &__texto{
+        font-size: 2.6rem;
+        max-width: 50rem;
+        margin: 0 auto;
+    }
+
+    &__enlace{
+        @include m.boton(v.$primario, v.$blanco);
+    }
+}
